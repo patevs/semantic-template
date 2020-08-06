@@ -1,12 +1,12 @@
 {
-  "name": "repo-template",
-  "version": "2.5.0",
-  "description": "A Basic Repository Template for Generic Projects",
+  "name": "semantic-template",
+  "version": "0.0.0",
+  "description": "A Template repository for semantically versioned projects",
   "author": "PatEvs",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patevs/repo-template.git"
+    "url": "git+https://github.com/patevs/semantic-template.git"
   },
   "engines": {
     "node": ">=10.21.0",
