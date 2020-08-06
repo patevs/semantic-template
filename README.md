@@ -1,6 +1,6 @@
-# Repo Template
+# Semantic Template
 
-> A Basic Repository Template for Generic Projects
+> A Template repository for semantically versioned projects.
 
 ---
 
