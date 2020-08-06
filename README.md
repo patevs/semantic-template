@@ -9,7 +9,7 @@
 * [`commitlint`](https://github.com/conventional-changelog/commitlint) Lint commit messages.
   * [`commitlint-config-gitmoji`](https://github.com/arvinxx/commitlint-config-gitmoji) Commitlint config enforcing gitmoji rules.
 * [`husky`](https://github.com/typicode/husky) Git hooks made easy.
-* [`np`](https://github.com/sindresorhus/np) A better npm publish.
+* [`release-it`](https://github.com/release-it/release-it) Automate versioning and package publishing.
 
 ---
 
@@ -21,7 +21,7 @@
 ├── .editorconfig
 ├── .gitignore
 ├── .huskyrc
-├── .np-config.json
+├── .release-it.json
 ├── LICENSE
 ├── package.json
 └── README.md
