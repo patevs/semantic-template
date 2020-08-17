@@ -22,7 +22,7 @@
 ├── .editorconfig       # Editor configuration
 ├── .gitignore          # Git ignore rules
 ├── .huskyrc            # Husky configuration
-├── .np-config.json     # Npm publish (np) configuration
+├── .np-config.js       # Npm publish (np) configuration
 ├── LICENSE
 ├── package.json        # Npm package configuration
 └── README.md
