@@ -18,13 +18,13 @@
 
 ```md
 .
-├── .commitlintrc.js
-├── .editorconfig
-├── .gitignore
-├── .huskyrc
-├── .np-config.json
+├── .commitlintrc.js    # Commitlint configuration
+├── .editorconfig       # Editor configuration
+├── .gitignore          # Git ignore rules
+├── .huskyrc            # Husky configuration
+├── .np-config.json     # Npm publish (np) configuration
 ├── LICENSE
-├── package.json
+├── package.json        # Npm package configuration
 └── README.md
 ```
 
