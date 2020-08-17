@@ -18,7 +18,7 @@
 
 ```md
 .
-├── .commitlintrc.json
+├── .commitlintrc.js
 ├── .editorconfig
 ├── .gitignore
 ├── .huskyrc
