@@ -1,6 +1,6 @@
 {
   "name": "semantic-template",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A Template repository for semantically versioned projects",
   "author": "PatEvs",
   "license": "MIT",
@@ -30,9 +30,15 @@
     }
   },
   "commitlint": {
-    "extends": ["./node_modules/commitlint-config-gitmoji"],
+    "extends": [
+      "./node_modules/commitlint-config-gitmoji"
+    ],
     "rules": {
-      "header-max-length": [0, "always", 80]
+      "header-max-length": [
+        0,
+        "always",
+        80
+      ]
     }
   }
 }
