@@ -20,7 +20,6 @@
 ├── .commitlintrc.json  # Commitlint configuration
 ├── .editorconfig       # Editor configuration
 ├── .gitignore          # Git ignore rules
-├── .huskyrc            # Husky configuration
 ├── .np-config.json     # NPM Publish (np) configuration
 ├── LICENSE             # Project License
 ├── package.json        # NPM package configuration
