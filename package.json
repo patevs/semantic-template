@@ -1,6 +1,6 @@
 {
   "name": "semantic-template",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "A Template repository for semantically versioned projects",
   "author": "PatEvs",
   "license": "MIT",
@@ -16,7 +16,6 @@
     "test": "echo \"Error: no test specified\" && exit 0",
     "updates": "npx ncu",
     "release": "np"
-
   },
   "devDependencies": {
     "@commitlint/cli": "^12.0.1",
