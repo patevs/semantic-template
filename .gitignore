@@ -1,6 +1,7 @@
-# ---------- #
-# .gitignore #
-# ---------- #
+# .gitignore
+# ----------
+
+### NodeJS ###
 
 # Logs
 logs

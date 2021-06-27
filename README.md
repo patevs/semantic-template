@@ -17,14 +17,13 @@
 
 ```md
 .
-├── .commitlintrc.json
-├── .editorconfig
-├── .gitignore
-├── .huskyrc
-├── .release-it.json
-├── LICENSE
-├── package.json
-└── README.md
+├── .commitlintrc.json  # Commitlint configuration
+├── .editorconfig       # Editor configuration
+├── .gitignore          # Git ignore rules
+├── .np-config.json     # NPM Publish (np) configuration
+├── LICENSE             # Project License
+├── package.json        # NPM package configuration
+└── README.md           # Project README
 ```
 
 ---

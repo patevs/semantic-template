@@ -1,6 +1,5 @@
-# ------------- #
-# .editorconfig #
-# ------------- #
+# .editorconfig
+# -------------
 
 # http://EditorConfig.org
 # https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties
@@ -9,7 +8,7 @@ root = true
 
 [*]
 charset = utf-8
-# end_of_line = crlf
+end_of_line = crlf
 indent_style = space
 indent_size = 2
 tab_width = 2
