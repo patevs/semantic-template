@@ -1,6 +1,6 @@
 {
   "name": "semantic-template",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "A Template repository for semantically versioned projects",
   "author": "PatEvs",
   "license": "MIT",
@@ -13,19 +13,15 @@
     "npm": ">=6.8.0"
   },
   "scripts": {
+    "prepare": "husky install",
     "test": "echo \"Error: no test specified\" && exit 0",
     "updates": "npx ncu",
     "release": "release-it"
   },
   "devDependencies": {
-    "@commitlint/cli": "^13.1.0",
+    "@commitlint/cli": "^16.2.3",
     "commitlint-config-gitmoji": "^2.2.5",
-    "husky": "^4.3.8",
+    "husky": "^7.0.4",
     "release-it": "^14.11.5"
-  },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
   }
 }
