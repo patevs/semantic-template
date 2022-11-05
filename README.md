@@ -21,7 +21,7 @@
 ├── .commitlintrc.json  # Commitlint configuration
 ├── .editorconfig       # Editor configuration
 ├── .gitignore          # Git ignore rules
-├── .np-config.json     # NPM Publish (np) configuration
+├── .release-it.json    # Release It configuration
 ├── LICENSE             # Project License
 ├── package.json        # NPM package configuration
 └── README.md           # Project README
